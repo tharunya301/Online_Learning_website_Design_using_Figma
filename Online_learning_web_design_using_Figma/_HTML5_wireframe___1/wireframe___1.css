@@ -1,0 +1,236 @@
+/*
+	@name wireframe___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_wireframe___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__wireframe___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(219,245,243,1);
+}
+
+#rectangle_1 {
+	top: 0px;
+	left: 1px;
+	width: 1440px;
+	height: 75px;
+	-ms-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 20px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,1);
+}
+
+#login_btn {
+	top: 8px;
+	left: 1178px;
+	width: 159px;
+	height: 60px;
+}
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 159px;
+	height: 60px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(110,209,96,1);
+}
+
+#login {
+	top: 10px;
+	left: -4px;
+	width: 176px;
+	height: 77px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 24px;
+	text-align: center;
+	color:#000000;
+}
+
+#home_btn {
+	top: 25px;
+	left: 328px;
+	width: 55px;
+	height: 27px;
+}
+
+#home_btn_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 55px;
+	height: 27px;
+}
+
+#home {
+	top: 0px;
+	left: 0px;
+	width: 80px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#excersices_btn {
+	top: 25px;
+	left: 617px;
+	width: 131px;
+	height: 27px;
+}
+
+#excersices {
+	top: 0px;
+	left: 0px;
+	width: 122px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#online_learning_logo_1 {
+	top: 0px;
+	left: 45px;
+	width: 200px;
+	height: 75px;
+}
+
+#learn_to_code {
+	top: 180px;
+	left: 503px;
+	width: 510px;
+	height: 142px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 70px;
+	font-weight: bold;
+	text-align: left;
+	color:#0B3C04;
+}
+
+#with_the_world_s_largest_web_developer_site_ {
+	top: 306px;
+	left: 328px;
+	width: 829px;
+	height: 81px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#185204;
+}
+
+#search_bar {
+	top: 418px;
+	left: 394px;
+	width: 550px;
+	height: 62px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 550px;
+	height: 62px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background:rgba(255,255,255,1);
+}
+
+#search_our_tutorials__e_g_html {
+	top: 17px;
+	left: 33px;
+	width: 422.63px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color: #000000;
+}
+
+#search_btn {
+	top: 417px;
+	left: 944px;
+	width: 102px;
+	height: 62px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 102px;
+	height: 62px;
+	background:rgba(110,209,96,1);
+}
+
+#search__2__1 {
+	top: 11px;
+	left: 30px;
+	width: 40px;
+	height: 40px;
+}
+
+#tutorials_btn {
+	top: 25px;
+	left: 442px;
+	width: 116px;
+	height: 27px;
+}
+
+#tutorials {
+	top: 0px;
+	left: 0px;
+	width: 108px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Playfair Display;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+#programming_1 {
+	top: 512px;
+	left: 455px;
+	width: 531px;
+	height: 525px;
+}
